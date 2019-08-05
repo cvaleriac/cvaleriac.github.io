@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Getting to know JS and Rails and JS project"
-date:       2019-08-05 18:55:10 +0000
+date:       2019-08-05 14:55:11 -0400
 permalink:  getting_to_know_js_and_rails_and_js_project
 ---
 
 
 Finally, the time for the 4th project came, after a troublesome relationship with theJS curriculum session. I simply felt that things in JS were not clicking right in my mind, as it happened with Rails instead.
 
-I was kind of afraid to start this project and felt very challenged and usure of what  had accomplished till that moment.
+I was kind of afraid to start this project and felt very challenged and unsure of what  had accomplished till that moment.
 
 Luckily, study groups are always there to help and shed a light on whatever is not working on our projects or just to understand what to expect froma project. Then, I watched the suggested videos, finding also [this](https://developers.google.com/web/tools/chrome-devtools/javascript/) resource particularly helpful for debugging.
 
