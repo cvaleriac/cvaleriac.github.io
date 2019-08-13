@@ -1,15 +1,14 @@
 # Site settings
+author: ValeriaC
 title: Coding Adventures
 header-img: img/home-bg.png
 email: cvaleriac@hotmail.it
-copyright_name: cvaleriac
+copyright_name: ValeriaC
 description: > # this means to ignore newlines until "baseurl:"
   New Challenge
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cvaleriac
-learn_profile: cvaleriac
-email_username: cvaleriac@hotmail.it
 
 # Build settings
 markdown: kramdown
